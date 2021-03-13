@@ -8,7 +8,7 @@
         <version>2.3.4.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.redleaf</groupId>
+    <groupId>com.eurekadevops.redleaf</groupId>
     <artifactId>redleaf</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>redleaf</name>
